@@ -27,11 +27,12 @@ re giving out bonuses)
 Further reading: [VisuAlgo](https://visualgo.net/en/sorting)
 
 Whiteboard sessions:
-- Pancake sort
-- Academic journal (Those who joined Maranatha's ACM-ICPC preliminary stage are not allowed to solve this one)
+- [489A - SwapSort](http://codeforces.com/problemset/problem/489/A)
+- [572A - Arrays](http://codeforces.com/problemset/problem/572/A)
 
 Weekly submissions:
-- [451 B](http://codeforces.com/problemset/problem/451/B)
-- [459 B](http://codeforces.com/problemset/problem/459/B)
+- [291A - Spyke Talks](http://codeforces.com/problemset/problem/291/A)
+- [230A - Dragons](http://codeforces.com/problemset/problem/230/A)
+- [768A - Oath of the Night's Watch](http://codeforces.com/problemset/problem/768/A)
 
 GLHF!
