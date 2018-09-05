@@ -1,6 +1,6 @@
 # Week 01 - Introduction
 
-Thank you for coming to this class!
+Thank you for coming to this class! The title for your weekly submission is `Week01-Introduction`
 In this week, we are going to have three whiteboard sessions and held our first weekly submissions.
 
 Whiteboard sessions:
