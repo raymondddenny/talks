@@ -16,6 +16,7 @@ These are sorting algorithms already used in VisuAlgo:
 - Radix sort
 
 Scoring system, for verdicts, will go like this:
+- Any answers with STL sort = 30 points
 - Time Limit Exceeded or Memory Limit Exceeded, using sorting algorithm explained in VisuAlgo = 40 points
 - Accepted, using sorting algorithm explained in VisuAlgo = 45 points (yes, we
 re giving out bonuses)
