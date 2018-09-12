@@ -11,6 +11,8 @@ Special for this week, anyone who can calculate best case and average case analy
 - Include only best/average case analysis in three problems: _+18 points_
 - Include best & average case analysis in three problems: _+40 points_
 
+**Note:** If you used STL `sort`, usually their worst-case is O(n log(n)).
+
 ## Important Links of the Week
 
 Reading material:
@@ -19,10 +21,12 @@ Reading material:
 - [Cheatsheet](http://bigocheatsheet.com/)
 
 Whiteboard sessions:
-- [231 A](http://codeforces.com/contest/231/problem/A)
-- [158 B)(http://codeforces.com/problemset/problem/158/B)
+- [352 B](http://codeforces.com/problemset/problem/352/B)
+- [158 B](http://codeforces.com/problemset/problem/158/B)
 
 Weekly submissions:
-- ?? To be revealed soon ??
+- [492 B](http://codeforces.com/problemset/problem/492/B)
+- [148 A](http://codeforces.com/problemset/problem/148/A)
+- [469 A](http://codeforces.com/problemset/problem/469/A)
 
 GLHF!
