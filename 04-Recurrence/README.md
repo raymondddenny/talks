@@ -12,6 +12,6 @@ Whiteboard sessions: **None for this week!**
 
 Weekly submissions:
 - [598 D](http://codeforces.com/contest/598/problem/D)
-- [392 C](http://codeforces.com/problemset/problem/392/C)
+- [268 B](http://codeforces.com/problemset/problem/268/B)
 
 GLHF!
